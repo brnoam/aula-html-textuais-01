@@ -1,0 +1,13 @@
+{
+  "name": "musica-ninar.html",
+  "version": "1.0.0",
+  "description": "projeto música de ninar",
+  "main": "musica-ninar.html",
+  "scripts": {
+  },
+  "keywords": [
+    "ninar"
+  ],
+  "author": "Bruno Amorim",
+  "license": "ISC"
+}

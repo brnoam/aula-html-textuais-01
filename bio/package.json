@@ -1,0 +1,13 @@
+{
+  "name": "bio",
+  "version": "1.0.0",
+  "description": "biografia",
+  "main": "bio.html",
+  "scripts": {
+    },
+  "keywords": [
+    "bi"
+  ],
+  "author": "Bruno Amorim",
+  "license": "ISC"
+}

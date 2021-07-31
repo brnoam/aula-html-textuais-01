@@ -1,0 +1,13 @@
+{
+  "name": "indicados-oscar",
+  "version": "1.0.0",
+  "description": "indicados ao oscar",
+  "main": "indicados.html",
+  "scripts": {
+  },
+  "keywords": [
+    "oscar"
+  ],
+  "author": "Bruno Amorim",
+  "license": "ISC"
+}
